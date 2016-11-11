@@ -1,2 +1,2 @@
-# python-fcm
-Firebase Cloud Messaging Wrapper for Python
+# Python Firebase Cloud Messaging Wrapper
+

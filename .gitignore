@@ -82,6 +82,8 @@ celerybeat-schedule
 venv/
 ENV/
 
+.DS_Store
+
 # Spyder project settings
 .spyderproject
 
